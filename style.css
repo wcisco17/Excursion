@@ -1,0 +1,61 @@
+* {
+  margin: 0;
+}
+body, html {
+  height:100%;
+  width: 100%;
+}
+.wrapper {
+  background: black;
+
+  text-align: center;
+  width:100%;
+}
+.header-container h1 {
+  color: white;
+  font-size: 50px;
+  font-weight: normal;
+  font-family: Verdana;
+  text-align: center;
+  line-height: 100px;
+}
+.header-container a {
+  color: Aquamarine;
+  font-size:16px;
+  font-family: Verdana;
+  line-height: 65px;
+}
+.index-container h2 {
+  color:#fff;
+  font-size: 42px;
+  font-weight: 300px;
+  font-family: Verdana;
+  line-height: 150px;
+}
+.index-container h5 {
+  color:gray;
+  font-size: 21px;
+  font-family: Verdana;
+  line-height:100px;
+}
+.phone-contain {
+  line-height: 40px;
+}
+.Third-container h2 {
+  color: white;
+  font-size: 50px;
+  font-weight: normal;
+  font-family: Verdana;
+  text-align: center;
+  line-height: 150px;
+}
+.Third-container a {
+  color: Aquamarine;
+  font-size:16px;
+  font-family: Verdana;
+
+}
+footer p {
+  text-align: right;
+  color: gray;
+}
