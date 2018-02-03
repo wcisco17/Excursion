@@ -38,11 +38,12 @@ body, html {
   font-family: Verdana;
   line-height:100px;
 }
+
 .index-container .camp {
   background-image: url("../img/camp.jpg");
-  width:1200px;
-  height: 1200px;
+  background-size: cover;
   background-repeat: no-repeat;
+  height:100%;
 }
 .phone-contain {
   line-height: 40px;
